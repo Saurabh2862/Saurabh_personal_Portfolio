@@ -33,9 +33,7 @@ const exp = [
     cardImage: "assets/images/experience-page/time_chain_lab.jpg",
     place: "Contributor @TSOC'23",
     time: "(Mar - Aug, 2023)",
-    desp: "<li> As a TSOC blockchain developer, I architect decentralized solutions for secure and transparent transactions.</li>
-   <li> Leveraging TSOC's innovative blockchain technology, I develop smart contracts and implement consensus algorithms.</li>
-   < li> My role involves optimizing blockchain performance and ensuring compliance with industry standards for seamless integration.</li>",
+    desp: "<li> As a TSOC blockchain developer, I architect decentralized solutions for secure and transparent transactions.</li><li> Leveraging TSOC's innovative blockchain technology, I develop smart contracts and implement consensus algorithms.</li>< li> My role involves optimizing blockchain performance and ensuring compliance with industry standards for seamless integration.</li>"
   },
   // {
     // title: "Research Intern",
