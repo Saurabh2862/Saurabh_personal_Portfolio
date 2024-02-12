@@ -33,7 +33,7 @@ const exp = [
     cardImage: "assets/images/experience-page/time_chain_lab.jpg",
     place: "Contributor @TSOC'23",
     time: "(Mar - Aug, 2023)",
-    desp: "<li> As a TSOC blockchain developer, I architect decentralized solutions for secure and transparent transactions.</li><li> Leveraging TSOC's innovative blockchain technology, I develop smart contracts and implement consensus algorithms.</li>< li> My role involves optimizing blockchain performance and ensuring compliance with industry standards for seamless integration.</li>"
+    desp: "<li> As a TSOC blockchain developer, I architect decentralized solutions for secure and transparent transactions.</li> <li> Leveraging TSOC's innovative blockchain technology, I develop smart contracts and implement consensus algorithms.</li> <li> My role involves optimizing blockchain performance and ensuring compliance with industry standards for seamless integration.</li>"
   },
   // {
     // title: "Research Intern",
@@ -135,7 +135,7 @@ const mentor = [
     href: "https://byteverse-nitp.vercel.app/about-us",
   },
   {
-    title: "Smart India Hackthon",
+    title: "Smart India Hackathon",
     subtitle: "Participated",
     image: "assets/images/experience-page/smart_india_hackthon.jpg",
     desp: "Smart India Hackathon 2023 is a nationwide initiative to provide students a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem solving.",
@@ -143,10 +143,10 @@ const mentor = [
   },
   {
     title: "HackRx 4.0",
-    subtitle:"Participated",
+    subtitle: "Participated",
     image: "assets/images/experience-page/HackRx4.0.png",
-    desp: "WaffleHacks 2021 is an upcoming 48-hour student-organized hackathon with an aim to bring technical solutions to local communities and small businesses.",
-    href: "https://wafflehacks.org/",
+    desp: "HackRx is the Annual Hackathon hosted by Bajaj Finserv Group where you get a stage for competing against the brightest of geeks, while being mentored by top-developer.",
+    href: "https://hackrx.in/",
   },
   // {
   //   title: "Elevate Tech",
