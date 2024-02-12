@@ -33,7 +33,9 @@ const exp = [
     cardImage: "assets/images/experience-page/time_chain_lab.jpg",
     place: "Contributor @TSOC'23",
     time: "(Mar - Aug, 2023)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li> As a TSOC blockchain developer, I architect decentralized solutions for secure and transparent transactions.</li>
+   <li> Leveraging TSOC's innovative blockchain technology, I develop smart contracts and implement consensus algorithms.</li>
+   < li> My role involves optimizing blockchain performance and ensuring compliance with industry standards for seamless integration.</li>",
   },
   // {
     // title: "Research Intern",
